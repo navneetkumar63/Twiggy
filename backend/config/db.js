@@ -13,6 +13,3 @@ await mongoose.connect(`${process.env.MONGODB_URI}`)
 }
 
 export default connectDB
- // mongodb+srv://navneetkumar991713:Kanika@99@cluster0.filykyz.mongodb.net/food-del
- 
-//mongodb+srv://shyambabujayswal:7084721408@cluster0.lvcoj.mongodb.net/tomato
